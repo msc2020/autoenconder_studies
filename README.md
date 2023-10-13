@@ -20,7 +20,7 @@ Studies that use autoencoders to reconstruct handwritten digits from MNIST and t
 <br/>
 
 <div style="text-align: center;">
-  <img src="./imgs/merged_figs.png" height="77%" width="77%">  
+  <img src="./imgs/merged_figs.png" height="89%" width="93%">  
 </div>
 
 <br/>
