@@ -7,10 +7,10 @@ Studies that use autoencoders to reconstruct handwritten digits from MNIST and t
 - Jupyter Notebook: <a href="Clustering using Autoencoder and t-SNE.ipynb">click here</a>.
 
 - Summary of Jupyter Notebook:
-  - Initial sets and check GPU
+  - Initial setups and check GPU
   - Dataset
   - Training Autoencoders
-  - Leaning curves 
+  - Learning curves 
   - Reconstructions with autoencoders
   - Dimensionality reduction
   - Next steps
